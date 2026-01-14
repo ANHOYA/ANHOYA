@@ -32,8 +32,10 @@ Here are some ideas to get you started:
 
 ## 🚀 Projects
 - MATLAB SIMULLINK STUDENT CHALLENGE 2025 - ["Efficient Fault Recovery : Curriculum Learning" 📺YOUTUBE](https://youtu.be/eeZr2bM1Hv0?si=rwpe4DK9iTpqOt5z)
-- MEOW PDF MERGER (24.09) https://github.com/Ansangho1005/MEOW-PDF-MERGER
 - RL on Coppelia-Sim[FrankaEmika] (25.10~25.12) https://github.com/Ansangho1005/coppelia-sim-zmq
+
+## DEV
+- MEOW PDF MERGER (24.09) https://github.com/Ansangho1005/MEOW-PDF-MERGER
 
 ## 💻 Web Services
 - https://hurimdiy.store/ (25.12)
