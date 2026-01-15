@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 🚀 Projects
-- MATLAB SIMULLINK STUDENT CHALLENGE 2025
+- MATLAB SIMULLINK STUDENT CHALLENGE 2025 (2026.01.14)
   - [📺YOUTUBE - "Efficient Fault Recovery : Curriculum Learning"](https://youtu.be/eeZr2bM1Hv0?si=rwpe4DK9iTpqOt5z)
   - [NOTION](https://www.notion.so/Simulink-Student-Challenge-2025-Efficient-Fault-Recovery-Curriculum-Learning-Public-2e978608fcea80e1b35ec8528fa31ac3?source=copy_link)
 - RL on Coppelia-Sim[FrankaEmika] (25.10~25.12) https://github.com/Ansangho1005/coppelia-sim-zmq
