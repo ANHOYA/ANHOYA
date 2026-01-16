@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭 **I’m currently working on ...**
   - I'm a senior in college now(2026).
- # - Intern at **Hanyang Univ. EE Lab** (Since 2025.09)
+  - Intern at **Hanyang Univ. EE Lab** (Since 2025.09)
 
 - 🌱 **I’m currently learning ...**
   - Electrical Engineering
