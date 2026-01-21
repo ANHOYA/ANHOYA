@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 - 📫 **How to reach me**
   - [parallel.ahn@gmail.com](mailto:parallel.ahn@gmail.com)
 
+- ETC
+  - BAEKJOON [SILVER 1](https://www.acmicpc.net/user/shan1005)
 <br>
 
 ## 🚀 Projects
