@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 ## 💻 Web Services
 - https://hurimdiy.store/ (25.12)
 - [yearendreciept](https://yearendreciept.vercel.app/) (25.12)
-- notion html cleaner - [notion2blogger](https://notion2blogger.vercel.app/) (26.01)
+- [notion2blogger](https://notion2blogger.vercel.app/) (26.01)
