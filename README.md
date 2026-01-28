@@ -32,6 +32,10 @@ Here are some ideas to get you started:
   - BAEKJOON [SILVER 1](https://www.acmicpc.net/user/shan1005)
 <br>
 
+## 🏆 Awards & Scholarships
+- Intermediate Industrial AI Project: AI Agent Hackathon - Excellence Award (2026.01.28)
+  - [Github](https://github.com/ANHOYA/Intermediate_Industrial_AI_Agent_NGV_HYU) / [Notion]()
+
 ## 🚀 Projects
 - MATLAB SIMULLINK STUDENT CHALLENGE 2025 (2026.01.14)
   - [📺YOUTUBE - "Efficient Fault Recovery : Curriculum Learning"](https://youtu.be/eeZr2bM1Hv0?si=rwpe4DK9iTpqOt5z)
