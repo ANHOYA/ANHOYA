@@ -50,6 +50,5 @@ Here are some ideas to get you started:
 - MEOW PDF MERGER (24.09) [Github](https://github.com/ANHOYA/MEOW-PDF-MERGER)
 
 ## 💻 Web Services
-- https://hurimdiy.store/ (25.12)
-- [yearendreciept](https://yearendreciept.vercel.app/) (25.12)
-- [notion2blogger](https://notion2blogger.vercel.app/) (26.01)
+- [Isaac Commander](https://isaac-commander.vercel.app/) / [notion2blogger](https://notion2blogger.vercel.app/) / [yearendreciept](https://yearendreciept.vercel.app/) / https://hurimdiy.store/
+
