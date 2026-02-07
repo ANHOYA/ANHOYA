@@ -47,8 +47,8 @@ Here are some ideas to get you started:
   - [Github](https://github.com/ANHOYA/Intermediate_Industrial_AI_Agent_NGV_HYU) / [Notion](https://www.notion.so/AI-AI-Agent-PUBLIC-2f678608fcea8023aee1f38e063e8d1d?source=copy_link) / [Dacon Official](https://dacon.io/competitions/official/236680/overview/description)
  
 ## 💻 DEV
-- MEOW PDF MERGER (24.09) [Github](https://github.com/ANHOYA/MEOW-PDF-MERGER)
+- MEOW PDF MERGER (24.09) [Github](https://github.com/ANHOYA/MEOW-PDF-MERGER) -> [MEOW PDF MERGER WEB](https://meow-pdf-merger-web.vercel.app/) (26.02)
 
 ## 💻 Web Services
-- [Isaac Commander](https://isaac-commander.vercel.app/) / [notion2blogger](https://notion2blogger.vercel.app/) / [yearendreciept](https://yearendreciept.vercel.app/) / https://hurimdiy.store/
+- [Isaac Commander](https://isaac-commander.vercel.app/) / [notion2blogger](https://notion2blogger.vercel.app/) / [yearendreciept](https://yearendreciept.vercel.app/) / https://hurimdiy.store/ [MEOW PDF MERGER WEB](https://meow-pdf-merger-web.vercel.app/)
 
