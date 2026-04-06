@@ -22,7 +22,8 @@ Here are some ideas to get you started:
   - Intern at **Hanyang Univ. EE Lab** (Since 2025.09)
 
 - 🌱 **I’m currently learning ...**
-  - Electrical Engineering
+  - Major in Electrical Engineering
+  - Currently, Studying Diffusion
   - Deeply interested in **Robotics** & **Control Systems**
 
 - 📫 **How to reach me**
