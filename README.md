@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🌱 **I’m currently learning ...**
   - Major in Electrical Engineering
-  - Currently, Studying Diffusion
+  - Currently, Studying Diffusion, Diffusion Policy and World Model
   - Deeply interested in **Robotics** & **Control Systems**
 
 - 📫 **How to reach me**
