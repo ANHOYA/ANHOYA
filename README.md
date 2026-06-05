@@ -33,6 +33,9 @@ Here are some ideas to get you started:
   - BAEKJOON [SILVER 1](https://www.acmicpc.net/user/shan1005)
 <br>
 
+## Paper
+- Enhancing Visuomotor Manipulation Control via Predictive Dynamics-Aware world model Augmented diffusion policy [ICCAS 2026] (Under Review)
+
 ## 🚀 Projects
 - MATLAB SIMULLINK STUDENT CHALLENGE 2025 (2026.01.14)
   - [📺YOUTUBE - "Efficient Fault Recovery : Curriculum Learning"](https://youtu.be/eeZr2bM1Hv0?si=rwpe4DK9iTpqOt5z)
@@ -40,7 +43,7 @@ Here are some ideas to get you started:
 - RL on Coppelia-Sim[FrankaEmika] (25.10~25.12) [Github](https://github.com/ANHOYA/coppelia-sim-zmq)
 
 ## 📚 STUDY
-- RL studying blog [한국어](https://hoyalab.blogspot.com/search/label/물고기%20RL) / [ENGLISH](https://hoyalabenglish.blogspot.com/search/label/ReinforceLearning)
+- RL studying blog [한국어](https://anhoya-lab.tistory.com/)
 
 ## 🏆 Awards & Scholarships
 - [Excellence Award] Hanyang Univ X HYUNDAI NGV Manufacturing Problem Solving AI Agent Hackathon (2026.01.28)
