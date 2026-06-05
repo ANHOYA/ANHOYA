@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 <br>
 
 ## Paper
-- Enhancing Visuomotor Manipulation Control via Predictive Dynamics-Aware world model Augmented diffusion policy [ICCAS 2026] (Under Review)
+- Enhancing Visuomotor Manipulation Control with a Predictive-Dynamics-Aware \n World-Model-Conditioned Diffusion Policy [ICCAS 2026] (Under Review)
 
 ## 🚀 Projects
 - MATLAB SIMULLINK STUDENT CHALLENGE 2025 (2026.01.14)
