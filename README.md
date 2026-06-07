@@ -55,5 +55,5 @@ Here are some ideas to get you started:
 - MEOW PDF MERGER (24.09) [Github](https://github.com/ANHOYA/MEOW-PDF-MERGER) -> [MEOW PDF MERGER WEB](https://meow-pdf-merger-web.vercel.app/) (26.02)
 
 ## 💻 Web Services
-- [Isaac Commander](https://isaac-commander.vercel.app/) / [notion2blogger](https://notion2blogger.vercel.app/) / [yearendreciept](https://yearendreciept.vercel.app/) / https://hurimdiy.store/ [MEOW PDF MERGER WEB](https://meow-pdf-merger-web.vercel.app/)
+- [MEOW PDF MERGER WEB](https://meow-pdf-merger-web.vercel.app/)
 
