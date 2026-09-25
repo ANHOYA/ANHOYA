@@ -68,5 +68,6 @@
 
 ## 📚 Technical Blog & Activity
 
+- 🌐 **Control Engineering**: EIGENROOM is an interactive control engineering lab where you tune controllers, test disturbances, and discover why systems respond as they do. [EIGENROOM](https://eigenroom.com/)
 - 📝 **Blog**: Documenting study notes on RL, Robotics, and Control at [anhoya-lab.tistory.com](https://anhoya-lab.tistory.com/)
 - 💻 **Problem Solving**: Baekjoon Online Judge [Silver I](https://www.acmicpc.net/user/shan1005)
