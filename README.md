@@ -1,6 +1,7 @@
 # Hi there, I'm Sangho An 👋
 
 > **Undergraduate Researcher in Robot Learning** · Electrical Engineering @ Hanyang University
+> 
 > *Start Fearlessly. Build Steadily. Finish Fully.*
 
 [![Website](https://img.shields.io/badge/Website-ansangho.com-0E4A84?style=flat-square&logo=googlechrome&logoColor=white)](https://www.ansangho.com)
